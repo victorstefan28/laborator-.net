@@ -1,0 +1,14 @@
+D:\facultate\laborator .net\Lab1\LAB_DAW\bin\Debug\net7.0\LAB_DAW.exe
+D:\facultate\laborator .net\Lab1\LAB_DAW\bin\Debug\net7.0\LAB_DAW.deps.json
+D:\facultate\laborator .net\Lab1\LAB_DAW\bin\Debug\net7.0\LAB_DAW.runtimeconfig.json
+D:\facultate\laborator .net\Lab1\LAB_DAW\bin\Debug\net7.0\LAB_DAW.dll
+D:\facultate\laborator .net\Lab1\LAB_DAW\bin\Debug\net7.0\LAB_DAW.pdb
+D:\facultate\laborator .net\Lab1\LAB_DAW\obj\Debug\net7.0\LAB_DAW.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultate\laborator .net\Lab1\LAB_DAW\obj\Debug\net7.0\LAB_DAW.AssemblyInfoInputs.cache
+D:\facultate\laborator .net\Lab1\LAB_DAW\obj\Debug\net7.0\LAB_DAW.AssemblyInfo.cs
+D:\facultate\laborator .net\Lab1\LAB_DAW\obj\Debug\net7.0\LAB_DAW.csproj.CoreCompileInputs.cache
+D:\facultate\laborator .net\Lab1\LAB_DAW\obj\Debug\net7.0\LAB_DAW.dll
+D:\facultate\laborator .net\Lab1\LAB_DAW\obj\Debug\net7.0\refint\LAB_DAW.dll
+D:\facultate\laborator .net\Lab1\LAB_DAW\obj\Debug\net7.0\LAB_DAW.pdb
+D:\facultate\laborator .net\Lab1\LAB_DAW\obj\Debug\net7.0\LAB_DAW.genruntimeconfig.cache
+D:\facultate\laborator .net\Lab1\LAB_DAW\obj\Debug\net7.0\ref\LAB_DAW.dll
