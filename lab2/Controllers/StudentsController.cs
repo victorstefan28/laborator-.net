@@ -36,8 +36,8 @@ namespace Lab2.Controllers
             return Ok(Students);
         }
 
-        [HttpGet]
-        public List<Student> getAllOredered()
+        [HttpGet("/getOrdered")]
+        public List<Student> getAllOrdered()
         {
             return Students.OrderBy(s => s.Id).ToList();
         }
